@@ -2,7 +2,7 @@
 
 This is a simple calculator application developed using React and TypeScript.
 
-To view the deployed application, [visit Calculator App](https://seraphimsyv.github.io/Calculator-App-Deploy).
+To view the deployed application, visit [Calculator App](https://seraphimsyv.github.io/Calculator-App-Deploy).
 
 ## Running the Application
 
